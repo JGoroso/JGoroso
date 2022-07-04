@@ -6,7 +6,7 @@
 
 <img align="right" src="https://i.ibb.co/vLBdxWV/Whats-App-Image-2022-02-22-at-12-04-34.jpg" border="0" height="300"></a>
 
-Hola, soy Joel. Trabaje en empresas en el sector de RH por tres años y continuo con mis estudios en la tecnicatura universitaria en sistema. Además, estoy realizando un bootcamp para convertirme en fullstack, practicando en proyectos con las herramientas que aprendo en el camino y tratando de encaminarme a mi primer empleo en el mundo it.
+Hola, soy Joel. Trabaje en empresas en el sector de RH por tres años, utilizando diferentes softwares y continuo con mis estudios en la Tecnicatura Universitaria en Sistemas (VB Net, SQL). Además, estoy realizando un bootcamp para convertirme en Fullstack (MERN Stack), practicando en proyectos con las herramientas que aprendo en el camino y tratando de encaminarme a mi primer empleo en el mundo it.
 <br>
 
 
@@ -19,11 +19,15 @@ Hola, soy Joel. Trabaje en empresas en el sector de RH por tres años y continuo
 <br>
 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://progsoft.net/images/tailwind-css-icon-70187f0341bd945dc65ad050a9a1b8f4fd79b1cf.png" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="js" width="34" height="34"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://sass-lang.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="sass" width="34" height="34"/> </a>
+ <a href="https://tailwindcss.com/" target="_blank"> <img src="https://progsoft.net/images/tailwind-css-icon-70187f0341bd945dc65ad050a9a1b8f4fd79b1cf.png" alt="tailwindcss" width="34" height="34"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="34" height="34"/> </a>
+ <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="js" width="33" height="33"/> </a>
+  <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" alt="vbnet" width="33" height="33"/> </a>
+  <a href="" target="_blank"> <img src="https://time.graphics/uploadedFiles/500/e9/64/e9646cda0e724184229b2f1a13231ace.png" alt="sql" width="33" height="33"/> </a>
+ 
 
    </p>
  <!-- proximamente 
